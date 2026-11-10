@@ -1,0 +1,6 @@
+skyfield>=1.46
+numpy
+matplotlib
+requests
+# optional, for coastlines/world map on the ground track plot:
+# cartopy
